@@ -1,7 +1,5 @@
-.ipynb_checkpoints
-.~landscape-generator.ipynb
-.Trash-0
-cache
-dataset
-dataset-backup
-logs
+*
+!.gitignore
+!landscape-generator.ipynb
+!cvae.png
+!cvae.keras
