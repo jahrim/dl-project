@@ -8,7 +8,7 @@
 ---
 
 In this repository you can find the latest version of the notebook (outputs included).
-However, since the size of training outputs was too large, they have been provided
+However, since the size of the training outputs was too large, they have been provided
 separately as PDFs inside the `docs/` directory.
 
 More information about the project is provided within the notebook, either inside this
