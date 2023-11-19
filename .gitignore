@@ -1,5 +1,5 @@
 *
 !.gitignore
 !landscape-generator.ipynb
-!cvae.png
-!cvae.keras
+!docs
+!docs/*
