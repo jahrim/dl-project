@@ -8,7 +8,13 @@
 ---
 
 In this repository you can find the latest version of the notebook.
+
 The training outputs have been provided as PDFs inside the `docs/training/` directory.
+In particular, the training directories follow the naming convention below:
+- **E**: #epochs of training;
+- **D**: #dimensions in the latent space;
+- **tanh**/**none**: latent activation function used by the encoder for generating means and variances;
+- **KL**: regularization coefficient.
 
 More information about the project is provided within the notebook, either inside this
 repository or on Colab.
