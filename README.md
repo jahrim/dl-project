@@ -7,9 +7,8 @@
 
 ---
 
-In this repository you can find the latest version of the notebook (outputs included).
-However, since the size of the training outputs was too large, they have been provided
-separately as PDFs inside the `docs/` directory.
+In this repository you can find the latest version of the notebook.
+The training outputs have been provided as PDFs inside the `docs/training/` directory.
 
 More information about the project is provided within the notebook, either inside this
 repository or on Colab.
