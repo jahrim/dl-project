@@ -2,5 +2,5 @@
 !.gitignore
 !landscape-generator.ipynb
 !docs
-!docs/*
+!docs/**
 !README.md
