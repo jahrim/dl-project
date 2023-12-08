@@ -17,4 +17,5 @@ In particular, the training directories follow the naming convention below:
 - **KL**: regularization coefficient.
 
 More information about the project is provided within the notebook, either inside this
-repository or on Colab.
+repository or on Colab. Also, a summary of the project is provided in the **PowerPoint
+Presentation** inside the `docs` directory.
