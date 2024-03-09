@@ -18,4 +18,4 @@ In particular, the training directories follow the naming convention below:
 
 More information about the project is provided within the notebook, either inside this
 repository or on Colab. Also, a summary of the project is provided in the **PowerPoint
-Presentation** inside the `docs` directory.
+Presentation** inside the `docs` directory ([Download Presentation](https://github.com/jahrim/dl-project/raw/master/docs/landscape-generation.pptx)).
